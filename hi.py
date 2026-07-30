@@ -4,4 +4,4 @@ print("SUB")
 print("MUL")
 print ("CHANGD")
 print (".")
-
+print ("<")
